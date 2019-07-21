@@ -24,6 +24,7 @@ https://powerapps.microsoft.com - Microsoft PowerApps
 https://admin.microsoft.com/Adminportal/Home?source=applauncher#/setupwizard - Microsoft 365 Business Set up wizard
 https://<tenantname>-admin.sharepoint.com/_layouts/15/online/SiteCollections.aspx - Classic SharePoint Administration portal
 https://<tenantname>-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx# - Modern SharePoint Administration portal
+https://config.office.com - Client configuration
 
 ## Security 
 
@@ -47,7 +48,7 @@ https://portal.azure.com - Azure portal home page
 https://preview.portal.azure.com - Preview Azure portal home page
 https://shell.azure.com - Azure Cloud shell
 https://aad.portal.azure.com/ - Azure AD Administration
-
+https://account.activedirectory.windowsazure.com/ - User Azure AD portal
 ## Partner
 
 https://partner.microsoft.com/en-au/community/australia-partner-hub - Microsoft Australia Partner Hub
