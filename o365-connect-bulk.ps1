@@ -1,13 +1,13 @@
 param(
-    [switch]$mfa = $false,      ## MFA login required
-    [switch]$std = $false,      ## Microsoft Online connect required
-    [switch]$aad = $false,      ## Azure AD connect required
-    [switch]$exo = $false,      ## Exchange Online connect required
-    [switch]$s4b = $false,      ## Skype for Business Online connect required
-    [switch]$sac = $false,      ## Security and Compliance Center connect required
-    [switch]$spo = $false,      ## SharePoint Online connect required
-    [switch]$tms = $false,      ## Microsoft Teams connect required
-    [switch]$aadrm = $false,    ## Azure AD Rights Management connect required
+    [switch]$mfa = $true,      ## MFA login required
+    [switch]$std = $true,      ## Microsoft Online connect required
+    [switch]$aad = $true,      ## Azure AD connect required
+    [switch]$exo = $true,      ## Exchange Online connect required
+    [switch]$s4b = $true,      ## Skype for Business Online connect required
+    [switch]$sac = $true,      ## Security and Compliance Center connect required
+    [switch]$spo = $true,      ## SharePoint Online connect required
+    [switch]$tms = $true,      ## Microsoft Teams connect required
+    [switch]$aadrm = $true,    ## Azure AD Rights Management connect required
     [switch]$help = $false      ## Show help information
 )
 <# CIAOPS
