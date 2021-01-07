@@ -82,6 +82,12 @@ $scripts += [PSCustomObject]@{
     Service = "Azure";  
     Module = "Az.Accounts"  
 }
+$scripts += [PSCustomObject]@{
+    Name = "Intune-connect.ps1";
+    Service = "Intune";  
+    Module = "Microsoft.Graph.Intune"  
+}
+
 
 try {
     $results = $scripts | select-object service | Sort-Object Service | Out-GridView -PassThru -title "Select services to connect to (Multiple selections permitted) "
