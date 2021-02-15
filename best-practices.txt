@@ -8,9 +8,11 @@ Best practices for configuring standalone EOP - https://docs.microsoft.com/en-us
 Recommended settings for EOP and Defender for Office 365 security - https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/recommended-settings-for-eop-and-office365-atp?view=o365-worldwide
 Microsoft 365 and Office 365 email migration performance and best practices - https://docs.microsoft.com/en-us/Exchange/mailbox-migration/office-365-migration-best-practices
 Best practices for public folder preparation before migrations - https://techcommunity.microsoft.com/t5/exchange-team-blog/best-practices-for-public-folder-preparation-before-migrations/ba-p/1909222
+How to Combat Fake Emails using SPF, DKIM, DMARC  - https://www.cyber.gov.au/acsc/view-all-content/publications/how-combat-fake-emails
 
 Security
 --------
+Microsoft Security best practices - https://docs.microsoft.com/en-us/security/compass/compass
 Essential eight - https://www.cyber.gov.au/acsc/view-all-content/essential-eight
 CISA - Microsoft 365 Recommendations - https://www.us-cert.gov/ncas/alerts/aa20-120a
 Center for Internet Security (CIS) benchmarks - https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-cis-benchmark?view=o365-worldwide
@@ -32,6 +34,14 @@ Securing devices as part of the privileged access story - https://docs.microsoft
 Top 10 ways to secure Microsoft 365 for business plans - https://docs.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/secure-your-business-data?view=o365-worldwide
 End user device (EUD) security guidance - https://www.ncsc.gov.uk/collection/end-user-device-security/platform-specific-guidance
 NSA Cybersecurity Advisories & Technical Guidance - https://www.nsa.gov/What-We-Do/Cybersecurity/Advisories-Technical-Guidance/
+Operational Security Assurance - https://www.microsoft.com/en-us/securityengineering/osa/practices
+Security Design principles - https://docs.microsoft.com/en-us/azure/architecture/framework/security/security-principles
+Detect and block potentially unwanted applications - https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/detect-block-potentially-unwanted-apps-microsoft-defender-antivirus
+
+Defender for Endpoint
+---------------------
+Recommendations for defining exclusions - https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/configure-exclusions-microsoft-defender-antivirus#recommendations-for-defining-exclusions
+Common mistakes to avoid when defining exclusions - https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/common-exclusion-mistakes-microsoft-defender-antivirus
 
 MCAS
 ----
